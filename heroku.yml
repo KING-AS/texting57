@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /Zara/Dockerfile
+run:
+   worker: npm start
